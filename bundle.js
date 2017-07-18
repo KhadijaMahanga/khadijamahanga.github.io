@@ -35570,7 +35570,7 @@ var Main = function (_React$Component) {
                                     null,
                                     _react2.default.createElement(
                                         'a',
-                                        { className: 'page-scroll', target: '_blank', href: 'http://blog.khadijamahanga.com' },
+                                        { className: 'page-scroll', target: '_blank', href: 'https://blog.khadijamahanga.com' },
                                         'Blog'
                                     )
                                 ),
