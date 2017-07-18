@@ -35570,7 +35570,7 @@ var Main = function (_React$Component) {
                                     null,
                                     _react2.default.createElement(
                                         'a',
-                                        { className: 'page-scroll', target: '_blank', href: 'https://blog.khadijamahanga.com' },
+                                        { className: 'page-scroll', target: '_blank', href: 'http://blog.khadijamahanga.com' },
                                         'Blog'
                                     )
                                 ),
@@ -35652,7 +35652,7 @@ var Main = function (_React$Component) {
                                         'li',
                                         null,
                                         _react2.default.createElement('i', { className: 'fa fa-envelope' }),
-                                        'info@khadijamahanga.com'
+                                        'khadijamahanga@gmail.com'
                                     )
                                 )
                             )
