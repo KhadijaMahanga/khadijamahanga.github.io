@@ -31966,7 +31966,7 @@ var SimpleEventPlugin = {
       case 'topVolumeChange':
       case 'topWaiting':
         // HTML Events
-        // @see http://www.w3.org/TR/html5/index.html#events-0
+        // @see http://www.w3.org/TR/html5//index#events-0
         EventConstructor = SyntheticEvent;
         break;
       case 'topKeyPress':
@@ -35570,7 +35570,7 @@ var Main = function (_React$Component) {
                                     null,
                                     _react2.default.createElement(
                                         'a',
-                                        { className: 'page-scroll', target: '_blank', href: 'https://hhaes-iynah.blogspot.com' },
+                                        { className: 'page-scroll', target: '_blank', href: 'http://blog.khadijamahanga.com' },
                                         'Blog'
                                     )
                                 ),
