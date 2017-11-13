@@ -92,12 +92,13 @@ social:
             function initMap() {
                var uluru = {lat: -6.847605, lng: 39.187303};
                var map = new google.maps.Map(document.getElementById('map'), {
-                  zoom: 12,
+                  zoom: 13,
                   center: uluru
                });
                var marker = new google.maps.Marker({
                   position: uluru,
-                  map: map
+                  map: map,
+                 animation:google.maps.Animation.BOUNCE
                });
             }
             </script>
